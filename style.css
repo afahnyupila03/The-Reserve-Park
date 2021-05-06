@@ -1,0 +1,53 @@
+/* Colors */
+.dark {
+  color: 000000;
+}
+.white {
+  color: #FFFFFF;
+}
+.gray {
+  color: #808080;
+}
+.silver {
+  color: #C0C0C0;
+}
+.orange {
+  color: #FFA500;
+}
+.light-orange {
+  color: #FFB300;
+}
+.light-dark {
+  color: #6b6b6b;
+}
+.light-dark {
+  color: #503c3c;
+}
+
+/* Typography */
+.nanum {
+  font-family: 'Nanum Gothic Coding', monospace;
+}
+.barlow {
+  font-family: 'Barlow Condensed', sans-serif;
+}
+.pt {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+.cuprum {
+  font-family: 'Cuprum', sans-serif;
+}
+
+/* Font Size */
+.font-16 {
+  font-size: 16px;
+  font-weight: 16px;
+}
+.font-20 {
+  font-size: 20px;
+  font-weight: 20px;
+}
+.font-24 {
+  font-size: 24px;
+  font-weight: 24px;
+}
